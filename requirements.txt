@@ -1,7 +1,10 @@
-streamlit
-chromadb
+fastapi
+uvicorn
 sentence-transformers
+chromadb
+streamlit
+pandas
 numpy
-scipy
+requests
+pydantic
 openai
-torch
