@@ -8,7 +8,7 @@
 
 ## 🔗 Links
 
-* **Live Demo:** https://agentmoat.streamlit.app
+* **Live App:** https://agentmoat.streamlit.app/
 * **Presentation Deck:** https://mahekbhambhani.github.io/AgentMoat/
 * **GitHub Repository:** https://github.com/mahekbhambhani/AgentMoat
 
